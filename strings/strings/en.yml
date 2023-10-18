@@ -33,8 +33,8 @@ com_7: "`Something Went Wrong.`"
 #chatactions
 can_1: "#GBanned_User Joined.\n\n**User** : {}\n**Reason**: {}\n\n`User Banned.`"
 can_2: "∆ #UsernameUpdate\n\n@{} changed username to @{}"
-can_3: "∆ #UsernameUpdate\n\n{} removed its username. (@{})"
-can_4: "∆ #UsernameUpdate\n\n{}'s new username --> @{}"
+can_3: "∆ #UsernameUpdate\n\n{}\n\nremoved its username. (@{})"
+can_4: "∆ #UsernameUpdate\n\n{}\n\nnew username --> @{}"
 
 # help
 help_1: "`{}` is not a valid plugin!"
